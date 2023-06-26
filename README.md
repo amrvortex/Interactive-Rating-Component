@@ -7,5 +7,3 @@
 ![image](https://github.com/amrvortex/Interactive-Rating-Component/assets/61240683/034e0813-0fe0-451b-adbf-38e716ca0efe)
 
 ![image](https://github.com/amrvortex/Interactive-Rating-Component/assets/61240683/f4997432-86d5-4995-a22b-6a0bbc444a0b)
-
-
