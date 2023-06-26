@@ -1,9 +1,9 @@
 # Interactive rating component
 
-![image](https://github.com/amrvortex/Interactive-Rating-Component/assets/61240683/aef7ff13-9d2f-4101-b15b-455f6152599c)
+![image](https://github.com/amrvortex/Interactive-Rating-Component/assets/61240683/66553993-36fa-47b9-8010-4f0c253d9131)
 
-![image](https://github.com/amrvortex/Interactive-Rating-Component/assets/61240683/bb452f4f-5807-49db-b325-996dfabfa232)
+![image](https://github.com/amrvortex/Interactive-Rating-Component/assets/61240683/dcbfaf58-48ef-43ef-bef7-fa9d73606347)
 
-![image](https://github.com/amrvortex/Interactive-Rating-Component/assets/61240683/034e0813-0fe0-451b-adbf-38e716ca0efe)
+![image](https://github.com/amrvortex/Interactive-Rating-Component/assets/61240683/f76c6759-fb0c-49e0-8684-a9adfb741740)
 
-![image](https://github.com/amrvortex/Interactive-Rating-Component/assets/61240683/f4997432-86d5-4995-a22b-6a0bbc444a0b)
+![image](https://github.com/amrvortex/Interactive-Rating-Component/assets/61240683/8d7ff218-1be0-4398-be4c-c6e7a038aba6)
