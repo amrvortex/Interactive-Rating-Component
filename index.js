@@ -6,17 +6,20 @@ const ratings = document.querySelectorAll(".btn")
 const actualRating = document.getElementById("rating")
 
 submitButton.addEventListener("click", () => {
-  mainContainer.style.display = "none"
+  // mainContainer.style.display = "none"
+  mainContainer.classList.add("hidden")
   thanksContainer.classList.remove("hidden")
-
-  ratings.forEach((rating) => {
-    rating.addEventListener("click", () => {
-      actualRating.innerHTML = rating.innerHTML
-    })
-  })
 })
 
 rateAgain.addEventListener("click", () => {
-  mainContainer.style.display = "block"
+  // mainContainer.style.display = "block"
+  mainContainer.classList.remove("hidden")
   thanksContainer.classList.add("hidden")
+})
+
+ratings.forEach((rating) => {
+  rating.addEventListener("click", () => {
+    console.log(rating.textContent);
+    actualRating.textContent = rating.textContent
+  })
 })

@@ -138,7 +138,8 @@ button {
   text-align: center;
 }
 
-.thank-you.hidden {
+.thank-you.hidden,
+.container.hidden {
   display: none;
 }
 
